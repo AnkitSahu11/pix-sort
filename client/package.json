@@ -1,0 +1,6 @@
+{
+  "name":"pixsort-client","version":"2.0.0","private":true,
+  "scripts":{"dev":"vite","build":"vite build","preview":"vite preview"},
+  "dependencies":{"axios":"^1.7.9","face-api.js":"^0.22.2","react":"^18.3.1","react-dom":"^18.3.1","socket.io-client":"^4.8.1"},
+  "devDependencies":{"@vitejs/plugin-react":"^4.3.4","vite":"^6.0.7"}
+}
