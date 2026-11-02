@@ -1,4 +1,5 @@
-# PixSort 2.0
+# PixSort 
+
 
 PixSort is an upgraded MERN photo-culling application that preserves the original contact-sheet workflow while adding authenticated projects, background analysis, pagination, real-time progress, technical scoring, duplicate grouping, browser-side face/eye analysis, and secure exports.
 
